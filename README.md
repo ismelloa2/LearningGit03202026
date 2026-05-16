@@ -18,3 +18,4 @@ new
 
 novo update
 
+novo test
