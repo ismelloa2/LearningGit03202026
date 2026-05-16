@@ -5,11 +5,16 @@ New change 03/31/2026
 new change 04/22/2026
 new change 05/15/2026
 new change 05/15/2026 adding text
-<<<<<<< HEAD
+
 adding new line
 new
+
+NEW 05/16/2026
+new 
+=======
 =======
 new
->>>>>>> 0de98bb (new update 05/15/2026 news)
+
 
 novo update
+
